@@ -1,7 +1,7 @@
 {
   "name": "@sign365/expo-nativewind-template",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Samuel Wyndham <sam@sign365.com.au>",
   "scripts": {
     "start": "expo start",
