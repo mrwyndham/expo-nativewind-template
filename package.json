@@ -54,5 +54,21 @@
     "react-refresh": "~0.14.0"
   },
   "private": false,
-  "license": "MIT"
+  "license": "MIT",
+  "description": "This is a template to provision expo apps so that they can be built very quickly. It is unopinionated about state but is opinionated about styling, cross-platform functionality, and navigation. It supports tailwindcss on mobile and on web",
+  "keywords": [
+    "expo",
+    "web",
+    "native",
+    "reactnative",
+    "react-native",
+    "tailwindcss",
+    "nativewind",
+    "tailwind",
+    "template",
+    "router"
+  ],
+  "repository": {
+    "url": "https://github.com/mrwyndham/expo-nativewind-template"
+  }
 }
