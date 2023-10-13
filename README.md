@@ -1,5 +1,3 @@
-Certainly! Here's a README file for your Expo template:
-
 # Expo NativeWind Template
 
 ## An Opinionated Way to Build a React Native App
@@ -59,8 +57,8 @@ For more information on using Tailwind CSS, Expo-Router, or Expo in general, ple
 We welcome feedback and contributions from the community. If you have suggestions for improvements or run into any issues with this template, please don't hesitate to open an issue or submit a pull request on our GitHub repository.
 
 ### Sponsors
-
 - [Sign365](www.sign365.com.au)
+- [XAM Consulting](https://xam.com.au/)
 
 Anyone who wishes to sponsor this package. Just let me know and I will add you on
 
